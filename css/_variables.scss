@@ -1,0 +1,26 @@
+// main styles
+
+$colors: (
+  
+  primary: #fff,
+  accent: #000,
+  accent-light: lighten(#000, 40%) 
+
+);
+
+
+
+// misc
+
+
+// breakpoints
+
+$screen-large: 87em; //1392px 
+$screen-medium: 75em; //1200px
+$screen-small: 67.5em; //1080px
+$tablet-large: 61.25em; //980px
+$tablet-medium: 48.75em; //780px
+$tablet-small: 45em; //720px
+$mobile-large: 40em; //640px
+$mobile-medium: 35em; //560px
+$mobile-small: 30em; //480px
